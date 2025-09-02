@@ -6,3 +6,6 @@
 ###### Test header 6
 
 Try to test markdown headers.
+
+Test image insert
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
