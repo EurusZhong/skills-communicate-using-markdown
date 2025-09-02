@@ -1,0 +1,27 @@
+# Test header 1
+## Test header 2
+### Test header 3
+#### Test header 4
+##### Test header 5
+###### Test header 6
+
+Try to test markdown headers.
+
+Test image insert
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+Test code change
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+``` javascript
+var myVar = "Hello, world!";
+```
+
+Test mark list
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [x] Done!
